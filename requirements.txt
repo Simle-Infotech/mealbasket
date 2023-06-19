@@ -43,3 +43,5 @@ virtualenv==20.16.5
 xlrd==2.0.1
 xlwt==1.3.0
 yarg==0.1.9
+django-paypal==2.0
+django_template_maths==0.2.0
